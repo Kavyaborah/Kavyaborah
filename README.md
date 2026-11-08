@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Minimalist Kawaii Header Banner -->
-  <img src="https://vercel.app" alt="Pink Aesthetic Banner" />
+  <!-- Fixed Simple Pink Pastel Banner -->
+  <img src="https://vercel.app" alt="Pink Pastel Banner" />
 
 </div>
