@@ -1,6 +1,2 @@
-<div align="center">
+# Hello this is Kaibaaa
 
-  <!-- Fixed Simple Pink Pastel Banner -->
-  <img src="https://vercel.app" alt="Pink Pastel Banner" />
-
-</div>
