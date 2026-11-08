@@ -1,8 +1,4 @@
 <div align="center">
 
-# Hello this is Kaibaaa
-
-<!-- Animated Typing Box -->
-<img src="https://demolab.com!+🌸;I+love+building+creative+projects;Let's+code+something+beautiful!+✨" alt="Typing SVG" />
-
-</div>
+# Hᴇʟʟᴏ ᴛʜɪs ɪs Kᴀɪʙᴀᴀᴀ ♡
+# 𝕀 𝕃𝕠𝕧𝕖 𝕓𝕦𝕚𝕝𝕕𝕚𝕟𝕘 𝕔𝕣𝕖𝕒𝕥𝕚𝕧𝕖 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤 ツ
